@@ -10,5 +10,5 @@ The architecture is designed to handle the intricacies of Arabic grammar and spe
 # Dataset
 The dataset used for training the model consists of pairs of sentences, where each pair contains a grammatically incorrect or misspelled sentence and its corrected version
 
-# Resources I used to learn about Seq2seq
-[https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/Pytorch/more_advanced/Seq2Seq/seq2seq.py](URL)
+# Attribution
+The Project uses code from [https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/Pytorch/more_advanced/Seq2Seq/seq2seq.py](URL), which is licensed under the [MIT License](https://opensource.org/licenses/MIT).
