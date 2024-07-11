@@ -18,6 +18,13 @@ class SpatialDropout(nn.Dropout2d):
         x = x.squeeze(2)  # (N, T, K)
         return x
 
+# This code is adapted from the Seq2Seq 
+# Original source: https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/Pytorch/more_advanced/Seq2Seq/seq2seq.py
+# Original author: Aladdin Persson
+# Original license: MIT License (https://opensource.org/licenses/MIT)
+
+
+
 class EncoderLSTM(nn.Module):
 
   def __init__(self,input_size, embedding_dim, embedding_matrix , hidden_size, num_layers, dropout_p=0.1):
