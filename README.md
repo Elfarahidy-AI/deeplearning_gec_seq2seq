@@ -13,7 +13,7 @@ The dataset used for training the model consists of pairs of sentences, where ea
 
 ## License
 
-This project includes code from [Seq2Seq]([https://github.com/original/project](https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/Pytorch/more_advanced/Seq2Seq/seq2seq.py)), which is licensed under the MIT License. The original code was created by Aladdin Persson.
+This project includes code from [Seq2Seq]([https://github.com/original/project](https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/Pytorch/more_advanced/Seq2Seq/seq2seq.py), which is licensed under the MIT License. The original code was created by Aladdin Persson.
 
 Additional code and modifications by Hossam Nabil are also licensed under the MIT License.
 
