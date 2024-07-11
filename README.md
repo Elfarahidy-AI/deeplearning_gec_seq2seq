@@ -17,4 +17,4 @@ This project includes code from [Seq2Seq](https://github.com/aladdinpersson/Mach
 
 Additional code and modifications by Hossam Nabil are also licensed under the MIT License.
 
-For more details, see the [LICENSE](LICENSE.txt) file.
+For more details, see the [LICENSE](License.txt) file.
