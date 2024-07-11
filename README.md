@@ -11,7 +11,8 @@ The architecture is designed to handle the intricacies of Arabic grammar and spe
 The dataset used for training the model consists of pairs of sentences, where each pair contains a grammatically incorrect or misspelled sentence and its corrected version
 
 # Future Work
-Providing more data to the model
+- Providing more data to the model
+- Adding Attention Mechanism for improving model performace
 
 ## License
 
