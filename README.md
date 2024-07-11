@@ -12,7 +12,7 @@ The dataset used for training the model consists of pairs of sentences, where ea
 
 # Future Work
 - Providing more data to the model
-- Adding Attention Mechanism for improving model performace
+- Adding Attention Mechanism for improving model performance
 
 ## License
 
